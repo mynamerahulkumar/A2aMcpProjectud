@@ -1,0 +1,4 @@
+python-a2a[all]
+yfinance
+requests
+dotenv
