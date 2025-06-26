@@ -2,8 +2,9 @@
 
 https://www.datacamp.com/tutorial/python-uv
 
+or 
 
-1. **Install [uv](https://github.com/astral-sh/uv) (if not already installed):**
+**Install [uv](https://github.com/astral-sh/uv) (if not already installed):**
    ```sh
    pip install uv
 
